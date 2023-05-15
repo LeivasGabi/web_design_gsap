@@ -1,0 +1,23 @@
+{
+  "greeting": "Olá colegas\n",
+  "name": "Boa noite",
+  "greetingText": "É um pazer apresentar a biblioteca que escolhemos",
+  "wishText": "Essas foram algumas empresas que utilisam a biblioteca GSAP",
+  "imagePath": "img/gsapIcon.png",
+  "text1": "GreenSock Animation Platform",
+  "textInChatBox": "O que é a GreenSock animation ?",
+  "sendButtonLabel": "Send",
+  "text2": "A biblioteca GSAP (GreenSock Animation Platform) é uma biblioteca JavaScript popular para animação e interatividade na web. Ela permite criar animações de alta performance e ricas em recursos em navegadores modernos.",
+  "text3": "O GSAP oferece uma ampla gama de recursos para manipulação de animação, como animação de propriedades CSS, animação de texto, sequências, animação de caminho e muito mais. Ele fornece uma sintaxe simples e intuitiva para criar animações poderosas e suaves.",
+  "text4": "Uma das principais vantagens do GSAP é o seu desempenho otimizado. Ele foi projetado para ser rápido e eficiente, garantindo animações suaves mesmo em dispositivos com recursos limitados.",
+  "text4Adjective": "E Quem criou?",
+  "text5Entry": "A biblioteca GSAP (GreenSock Animation Platform) foi lançada em 2008 por um grupo de desenvolvedores do GreenSock, uma empresa especializada em animação e interatividade na web. O projeto foi liderado por Jack Doyle, que é considerado o fundador e principal responsável pelo desenvolvimento do GSAP.",
+  "text5Content": "Jack Doyle criou o GSAP como uma solução para animações na web que fosse mais eficiente e flexível do que as alternativas disponíveis na época. Desde então, o GSAP se tornou uma das bibliotecas mais populares para animação na web, sendo amplamente adotado e utilizado por desenvolvedores em todo o mundo.",
+  "smiley": ":)",
+  "bigTextPart1": "GS",
+  "bigTextPart2": "AP",
+  "wishHeading": "GSAP",
+  "outroText": "Essa apresentação foi toda montada com a biblioteca para demonstração de sua grande utilidade",
+  "replayText": "Clique Aqui para rever a apresentação",
+  "outroSmiley": "Carlos Pires e Gabrielle Leivas :)"
+}
