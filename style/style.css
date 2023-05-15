@@ -146,11 +146,11 @@ body {
 }
 
 .baloons img:nth-child(even) {
-  left: -10%;
+  left: 5%;
 }
 
 .baloons img:nth-child(odd) {
-  right: -10%;
+  right: 5%;
 }
 
 .baloons img:nth-child(3n + 0) {
